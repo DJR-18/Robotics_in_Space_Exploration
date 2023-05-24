@@ -1,5 +1,4 @@
 ---
-
 layout:post
 title:"Robotics in Space Exploration"
 date:2023-05-18 19:45:37
@@ -10,7 +9,6 @@ tags:IEEE NITK
 categories:Diode
 github_username_1:"D.Jagannadha Reddy"
 github_username_2:"Ruthwicked17"
-
 ---
 # Robotics in Space Exploration
 ## Introduction
