@@ -8,6 +8,8 @@ the universe.'
 tags:IEEE NITK
 categories:Diode
 github_username_1:"D.Jagannadha Reddy"
+github_username_2:"Ruthwicked17"
+
 ---
 # Robotics in Space Exploration
 ## Introduction
